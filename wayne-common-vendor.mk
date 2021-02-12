@@ -77,10 +77,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/wayne-common/proprietary/vendor/etc/qdcm_calib_data_jdi_nt36672_fhd_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_jdi_nt36672_fhd_video_mode_dsi_panel.xml \
     vendor/xiaomi/wayne-common/proprietary/vendor/etc/qdcm_calib_data_tianma_nt36672_fhd_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_tianma_nt36672_fhd_video_mode_dsi_panel.xml \
     vendor/xiaomi/wayne-common/proprietary/vendor/etc/scve/facereco/gModel.dat:$(TARGET_COPY_OUT_VENDOR)/etc/scve/facereco/gModel.dat \
-    vendor/xiaomi/wayne-common/proprietary/vendor/etc/thermal-engine.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine.conf \
-    vendor/xiaomi/wayne-common/proprietary/vendor/etc/thermal-engine-map.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-map.conf \
-    vendor/xiaomi/wayne-common/proprietary/vendor/etc/thermal-engine-normal.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-normal.conf \
-    vendor/xiaomi/wayne-common/proprietary/vendor/etc/thermal-engine-video.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-video.conf \
     vendor/xiaomi/wayne-common/proprietary/vendor/firmware/cpp_firmware_v1_12_0.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/cpp_firmware_v1_12_0.fw \
     vendor/xiaomi/wayne-common/proprietary/vendor/firmware/dbmd4_va_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/dbmd4_va_fw.bin \
     vendor/xiaomi/wayne-common/proprietary/vendor/firmware/fpctzappfingerprint.b00:$(TARGET_COPY_OUT_VENDOR)/firmware/fpctzappfingerprint.b00 \
