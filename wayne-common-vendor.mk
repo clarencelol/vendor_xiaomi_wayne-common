@@ -499,5 +499,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/wayne-common/proprietary/vendor/lib64/vendor.qti.hardware.fingerprint@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.qti.hardware.fingerprint@1.0.so
 
 PRODUCT_PACKAGES += \
+    libts_detected_face_hal \
+    libts_face_beautify_hal \
     FingerprintExtensionService \
     com.fingerprints.extension
